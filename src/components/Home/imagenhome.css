@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Text:wght@100;400;600;800;900&family=IBM+Plex+Sans+KR:wght@100;200;400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+.image{
+    margin-bottom: 3rem;
+}
+
+.imag{
+    width: 100%;
+    object-fit: cover !important;
+}
+.col{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.centrad{
+    position: absolute;
+    left: 70%;
+    bottom: 60%;
+    transform: translate(-50%, -50%);
+    color: rgb(32, 32, 32);
+    font-size: 4rem;
+    font-family: 'Archivo Black', sans-serif;
+    
+}
+.centra{
+    position: absolute;
+    left: 70%;
+    bottom: 55%;
+    transform: translate(-50%, -50%);
+    color: rgb(32, 32, 32);
+    font-size: 4rem;
+    font-family: 'Archivo Black', sans-serif;
+    
+}
+.centralizado{
+    position: absolute;
+    left: 70%;
+    bottom: 43%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    font-size: 6rem;
+    font-family: 'Staatliches', cursive;
+    font-weight: 700;
+}

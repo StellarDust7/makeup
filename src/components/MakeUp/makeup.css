@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Text:wght@100;400;600;800;900&family=IBM+Plex+Sans+KR:wght@100;200;400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed:wght@100;300;400;500&display=swap');
+
+
+.title{
+    font-size: 22px !important;
+    font-weight: 600 !important;
+    font-family: 'Big Shoulders Text', cursive;
+    color: rgb(0, 0, 0);
+    
+}
+.separa-card{
+    margin-bottom: 1rem;
+    border: none !important;
+    
+}
+.txt{ 
+    font-family: 'IBM Plex Sans Condensed', sans-serif ;
+    font-size: 18px !important;
+}
+
+.bot{
+    display: block !important;
+    margin: auto;
+    background-color: #e00085 !important;
+    font-family: 'Oswald', sans-serif !important;
+    font-size: 22 !important;
+    font-weight: 200;
+    border: none !important;
+    border-radius: 0 !important;
+}
